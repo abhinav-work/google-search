@@ -7,4 +7,4 @@
   4. After the installation, run the following command to start the server :- `nodemon` 
   5. Hit the following URL in with `GET` method in postman or simply run the following URL in the browser to save the `COVID` related `NEWS ARTICLES` from the `PAST 2 DAYS` originating from `CANADA` :- `localhost:3000/`
 
-## P.S. As the `GOOGLE API` is of free tier, there is a limitted amount of hits available per day. To counter the same, I have deliberately limitted the no. of hits so that threshold is never crossed. Comment the LINE 31 if you need to fetch ALL the relevant results. 
+### P.S. As the `GOOGLE API` is of free tier, there is a limitted amount of hits available per day. To counter the same, I have deliberately limitted the no. of hits so that threshold is never crossed. Comment the LINE 31 if you need to fetch ALL the relevant results. 
